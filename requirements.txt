@@ -1,0 +1,7 @@
+flask
+werkzeug
+scikit-learn
+google-generativeai
+faiss-cpu
+numpy
+regex
